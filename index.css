@@ -25,6 +25,9 @@ h2 {
   margin-top: 0;
   margin-bottom: 10px;
 }
+p {
+  font-weight: bold;
+}
 button {
   border: none;
   padding-top: 10px;
