@@ -5,6 +5,7 @@ body {
   background-repeat: no-repeat;
   text-align: center;
   margin: 0 auto;
+  height: 100vh;
 }
 .container {
   background: #fff;
